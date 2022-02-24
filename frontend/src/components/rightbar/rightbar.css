@@ -1,0 +1,29 @@
+.rightbar {
+  flex: 2.5;
+  color: #4e5d78;
+}
+
+.rightbarTop {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  height: 40px;
+}
+
+.rightbarWrapper {
+  padding: 0px 30px;
+}
+
+.rightbarTitle {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.rightbarFriendList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
