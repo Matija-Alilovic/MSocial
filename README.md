@@ -22,3 +22,6 @@ Social media app using MERN stack
 </ul>
 
 <hr>
+<img src="https://user-images.githubusercontent.com/99608089/155840440-f4b50040-7687-4419-8b83-232a9dc0a343.png" alt="" srcset="" />
+<img src="https://user-images.githubusercontent.com/99608089/155840524-d2c12629-27f9-439c-98c6-ee13d8061736.png" alt="" srcset="" />
+
