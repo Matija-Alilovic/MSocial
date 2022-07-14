@@ -1,5 +1,5 @@
-# MFood
-Food app using React, .NET Web API, SqlServer Database
+# MatkoSocial
+Social media app using MERN stack
 
 <h1> <b>Features</b> </h1>
 <h2> BACKEND </h2> 
@@ -21,9 +21,11 @@ Food app using React, .NET Web API, SqlServer Database
   <li> Upload image </li>
 </ul>
 
+
 <hr>
-<img src="https://user-images.githubusercontent.com/99608089/179032789-bd04df65-bcae-49c0-a7f6-37ab74e67ca6.jpeg"/>
-<br/>
-<img src="https://user-images.githubusercontent.com/99608089/179032880-69bad074-b0a3-402a-a70b-3d5b1a9e2632.jpg"/>
-<br/>
-<img src="https://user-images.githubusercontent.com/99608089/179032944-1c318e8a-676c-4f3f-92ae-a30bb8862e21.jpg"/>
+<img src="https://user-images.githubusercontent.com/99608089/155840440-f4b50040-7687-4419-8b83-232a9dc0a343.png" alt="" srcset="" />
+<img src="https://user-images.githubusercontent.com/99608089/155840524-d2c12629-27f9-439c-98c6-ee13d8061736.png" alt="" srcset="" />
+<img src="https://user-images.githubusercontent.com/99608089/155840580-7883e1b5-6e36-4402-987d-a2dba23418dc.png" alt="" srcset="" />
+<img src="https://user-images.githubusercontent.com/99608089/155840702-480bf4ed-3648-4f24-a180-ff6b5d1a987a.png" alt="" srcset="" />
+
+
